@@ -1,0 +1,5 @@
+C:\Users\cdoherty\source\repos\InfinitePlanetResources\InfinitePlanetResources\bin\Release\InfinitePlanetResources.dll
+C:\Users\cdoherty\source\repos\InfinitePlanetResources\InfinitePlanetResources\bin\Release\InfinitePlanetResources.pdb
+C:\Users\cdoherty\source\repos\InfinitePlanetResources\InfinitePlanetResources\obj\Release\InfinitePlanetResources.csproj.CoreCompileInputs.cache
+C:\Users\cdoherty\source\repos\InfinitePlanetResources\InfinitePlanetResources\obj\Release\InfinitePlanetResources.dll
+C:\Users\cdoherty\source\repos\InfinitePlanetResources\InfinitePlanetResources\obj\Release\InfinitePlanetResources.pdb
