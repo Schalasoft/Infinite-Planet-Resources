@@ -3,3 +3,8 @@ C:\Users\cdoherty\source\repos\InfinitePlanetResources\InfinitePlanetResources\b
 C:\Users\cdoherty\source\repos\InfinitePlanetResources\InfinitePlanetResources\obj\Release\InfinitePlanetResources.csproj.CoreCompileInputs.cache
 C:\Users\cdoherty\source\repos\InfinitePlanetResources\InfinitePlanetResources\obj\Release\InfinitePlanetResources.dll
 C:\Users\cdoherty\source\repos\InfinitePlanetResources\InfinitePlanetResources\obj\Release\InfinitePlanetResources.pdb
+C:\Users\Cian\Documents\GitHub\Infinite-Planet-Resources\InfinitePlanetResources\obj\Release\InfinitePlanetResources.csproj.CoreCompileInputs.cache
+C:\Users\Cian\Documents\GitHub\Infinite-Planet-Resources\InfinitePlanetResources\obj\Release\InfinitePlanetResources.dll
+C:\Users\Cian\Documents\GitHub\Infinite-Planet-Resources\InfinitePlanetResources\obj\Release\InfinitePlanetResources.pdb
+C:\Users\Cian\Documents\GitHub\Infinite-Planet-Resources\InfinitePlanetResources\bin\Release\InfinitePlanetResources.dll
+C:\Users\Cian\Documents\GitHub\Infinite-Planet-Resources\InfinitePlanetResources\bin\Release\InfinitePlanetResources.pdb
