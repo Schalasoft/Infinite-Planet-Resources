@@ -13,7 +13,6 @@ C:\Users\Cian\Documents\GitHub\Infinite-Planet-Resources\InfinitePlanetResources
 C:\Users\Cian\Documents\GitHub\Infinite-Planet-Resources\InfinitePlanetResources\bin\Release\Assembly-CSharp.dll
 C:\Users\Cian\Documents\GitHub\Infinite-Planet-Resources\InfinitePlanetResources\bin\Release\UnityEngine.CoreModule.dll
 C:\Users\Cian\Documents\GitHub\Infinite-Planet-Resources\InfinitePlanetResources\bin\Release\UnityEngine.dll
-C:\Users\Cian\Documents\GitHub\Infinite-Planet-Resources\InfinitePlanetResources\obj\Release\InfinitePlanetResources.csprojAssemblyReference.cache
 C:\Users\Cian\Documents\GitHub\Infinite-Planet-Resources\InfinitePlanetResources\obj\Release\InfinitePlanetResources.csproj.CopyComplete
 C:\Users\Cian\Documents\GitHub\Infinite-Planet-Resources\InfinitePlanetResources\obj\Release\InfinitePlanetResources.dll
 C:\Users\Cian\Documents\GitHub\Infinite-Planet-Resources\InfinitePlanetResources\obj\Release\InfinitePlanetResources.pdb
